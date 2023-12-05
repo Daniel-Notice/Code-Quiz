@@ -2,9 +2,9 @@
 
 ## Description
 
-https://daniel-notice.github.io/Horiseon-Marketing-Website/
+https://daniel-notice.github.io/Code-Quiz/
 
-This is a marketing website that offers services to businesses and individuals that are looking to improve their website rankings and overall business.The technologies that were used to create this website are html and css. Completeing this project improved my use of semantic html.
+This is a coding quiz that uses DOM manipulation to navigate throughout the quiz. The main language used for this webpage is Javascript. 
 
 ## Installation
 
